@@ -1,0 +1,352 @@
+{
+  "finalized_beijing": "2026-10-15T19:18:30+08:00",
+  "report_count": 10,
+  "html_count": 14,
+  "functional_rows": 28,
+  "functional_cells": 280,
+  "svg_count": 32,
+  "official_images": 20,
+  "offline_validation_passed": true,
+  "files": [
+    {
+      "path": "assets/awin-campaigns.webp",
+      "bytes": 44376,
+      "sha256": "c0984c556df603672956cb04d10d185573e288a983917ccbe5862cd2dc41628d"
+    },
+    {
+      "path": "assets/awin-feed-mapping.png",
+      "bytes": 11405,
+      "sha256": "f04756fcdd77406adb945ca020b3be1652c6fa228cd81dbc5187ae3a0672492f"
+    },
+    {
+      "path": "assets/awin-tracking.webp",
+      "bytes": 6489,
+      "sha256": "1d863e5641c2e73abb631e7588ea01e93db98b471fc19f799add295c584494f7"
+    },
+    {
+      "path": "assets/everflow-events.png",
+      "bytes": 348337,
+      "sha256": "2127747e79cad94ca993198c5d8be58d58f42369db8b6324a4e84fc1ceff5a33"
+    },
+    {
+      "path": "assets/firstpromoter-plans.png",
+      "bytes": 93542,
+      "sha256": "ef0b8ecb381531113aa3e74ba5c75d7100337cac1857d4d38f39d0f8995c8c81"
+    },
+    {
+      "path": "assets/firstpromoter-rules.png",
+      "bytes": 111333,
+      "sha256": "2dc5c5b962a881b2a0d5116369d86e691e376ab58b5edf83f21fbbb8b44a50a2"
+    },
+    {
+      "path": "assets/firstpromoter-stripe-help.png",
+      "bytes": 61648,
+      "sha256": "2b8e187b471681fc4645cfbc1367a8057a43dedd530de198df9d933189c23824"
+    },
+    {
+      "path": "assets/fxiaoke-connection.png",
+      "bytes": 158627,
+      "sha256": "54d990cf1bf9cdff53649a4a08fb953a56eea39af7ae2ad66937290b3deecd55"
+    },
+    {
+      "path": "assets/fxiaoke-portal.png",
+      "bytes": 268737,
+      "sha256": "5c32bab7e6a45346c70e93c387386c11887de7ee3d42d582637f64d336ab6645"
+    },
+    {
+      "path": "assets/impact-balance-forecast.png",
+      "bytes": 25680,
+      "sha256": "79ccabe85eada6dfcfb3741f71ebe618b0bfd66a8fad4bfa7283cdbc493dab41"
+    },
+    {
+      "path": "assets/impact-finance-overview.png",
+      "bytes": 72079,
+      "sha256": "63645e201d88c2587e468fba8cd6c99a7a6a7cac30813a1a5a7fcaf5d27341ac"
+    },
+    {
+      "path": "assets/partnerstack-dashboard.png",
+      "bytes": 232732,
+      "sha256": "8ad1a31ead065a7c6b194d6ab6d2e9c854260312d6876819538fc0dea964f17d"
+    },
+    {
+      "path": "assets/partnerstack-review.png",
+      "bytes": 124254,
+      "sha256": "da029bf8badb390d66f1c6610a13d31d2e96538008b00e6880e76f77a7970fff"
+    },
+    {
+      "path": "assets/rewardful-managed-payouts.jpg",
+      "bytes": 94488,
+      "sha256": "f75e12453f35351f311c53fd928586d7de29cf5f0a2897f13c481f7e56711853"
+    },
+    {
+      "path": "assets/rewardful-minimum-payout-threshold-interface.jpg",
+      "bytes": 75648,
+      "sha256": "6622431482b9c5c0cc165db86769677fe4b418566f651dcf16fde1af73f9e738"
+    },
+    {
+      "path": "assets/rewardful-payouts-ui.jpg",
+      "bytes": 21634,
+      "sha256": "ba8ab066b3017f02112e04952ecd945f911dcb14b8daf57a4b0ef9f0a5dca045"
+    },
+    {
+      "path": "assets/tapfiliate-balance1.png",
+      "bytes": 220479,
+      "sha256": "2de34f59d74939c9a0c31d8595e3fb9b81bca5dbe1c493c47434c3e0d99a2bae"
+    },
+    {
+      "path": "assets/tapfiliate-balance2.png",
+      "bytes": 190453,
+      "sha256": "05c91f963859eba5d38d73863614366052faeea6688fde372edf2ff41d672471"
+    },
+    {
+      "path": "assets/weimob-attribution.png",
+      "bytes": 71676,
+      "sha256": "0adce2eb9c81edf289c613c94ca59e7ecd4198c3ac4f602acf2fcab0f0aabe7d"
+    },
+    {
+      "path": "assets/youzan-withdraw.png",
+      "bytes": 114993,
+      "sha256": "20ff3bcd7c777d971a689c0168301c2e5572a816cd6b96fc7de5dacdb248a04e"
+    },
+    {
+      "path": "awin.html",
+      "bytes": 115916,
+      "sha256": "365a2dd21ff84305bd47919c6588ca4684c1a7226870d2803078cfddd5036e85"
+    },
+    {
+      "path": "build-stats.json",
+      "bytes": 7358,
+      "sha256": "543badf0b8b029d8b09c4d8654ef6f2ed8d0b1fa5e8180c5eb43ac5fca3e2b0f"
+    },
+    {
+      "path": "comparison.html",
+      "bytes": 130048,
+      "sha256": "03bfa32830cdc40274e4c06720edcbf7bfa078024087906d5ca1378792e2a80e"
+    },
+    {
+      "path": "everflow.html",
+      "bytes": 505839,
+      "sha256": "5d3860bb599860f2c9e0e25f2465aa9aacbabb62ce94667cc8d14ff519b381cb"
+    },
+    {
+      "path": "evidence.html",
+      "bytes": 20904,
+      "sha256": "b6dad0a3a6bafe5c292995db17ff62d1954af27672e99f546f4ec052a5268e23"
+    },
+    {
+      "path": "firstpromoter.html",
+      "bytes": 397069,
+      "sha256": "8b4739da2599ed9b92b552e632b97f5d4ab550e4fd25f4c4c757686220629fa1"
+    },
+    {
+      "path": "fxiaoke.html",
+      "bytes": 610746,
+      "sha256": "88c86dd23df9dc42d05487f668a8bd6071ab2980b25af3901806bb3332275727"
+    },
+    {
+      "path": "gallery.html",
+      "bytes": 3152923,
+      "sha256": "1b10388b1c4e57b75d7817d7f5f0046e0478b66707c7838b546c39da8e4708cf"
+    },
+    {
+      "path": "impact.html",
+      "bytes": 174135,
+      "sha256": "24485a2490267fedc2333e0e380b8b4c62604e9a7188aea6da261b9cecdccf54"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14162,
+      "sha256": "0c8ede04d06d743f5812c3fc03bda18932e45ff10f46c7bf7088c5695bd72514"
+    },
+    {
+      "path": "partnerstack.html",
+      "bytes": 521948,
+      "sha256": "0951bd25a8375fb87d1c1fdc20253a59f5acc9f913059d335049ed725b5b9435"
+    },
+    {
+      "path": "progress.json",
+      "bytes": 235,
+      "sha256": "89930dce047cdc67a2a1acc5f138fc555e66c2b29fffe683b5cf5aecd015e21f"
+    },
+    {
+      "path": "qa/comparison-top.png",
+      "bytes": 178819,
+      "sha256": "b7aefc516362fb34a1a2130fef3cb5bdc53ac9e61ee0679fe56a1ceca54c6059"
+    },
+    {
+      "path": "qa/impact-flow.png",
+      "bytes": 98229,
+      "sha256": "71d765e6aacc6d89a3aefb7a94466a1fcd7a5f44366a564130e8da08237d6c7b"
+    },
+    {
+      "path": "qa/impact-official.png",
+      "bytes": 80635,
+      "sha256": "ddce0fe245e462bf0de38eb19fd4ce8b2c724f888286917d595e09eb4a73d5bd"
+    },
+    {
+      "path": "qa/impact-top.png",
+      "bytes": 225436,
+      "sha256": "9c83769528da416f047f1ed1a56896f2c5df280e5314b2b187413eaad09283aa"
+    },
+    {
+      "path": "qa/index-top.png",
+      "bytes": 160974,
+      "sha256": "d43902050ee41762a6284312715e53759cae6450fb067d3c1621261d4d05231e"
+    },
+    {
+      "path": "qa/partnerstack-flow.png",
+      "bytes": 106857,
+      "sha256": "890fb029f2a5d0ec7ec3a7625bc086462c8a26b74768fc48db843cc0dd45674b"
+    },
+    {
+      "path": "qa/partnerstack-mobile.png",
+      "bytes": 80604,
+      "sha256": "e577c763bf4c78eab72b2cc088de14e770235d604b33fe8f55acd304772fa8c5"
+    },
+    {
+      "path": "qa/partnerstack-official.png",
+      "bytes": 89041,
+      "sha256": "994ae0dceee596d7eeb2ab3c48454bbc61d9e93418992ab0008b279e206d77b4"
+    },
+    {
+      "path": "qa/partnerstack-top.png",
+      "bytes": 235649,
+      "sha256": "54040c4b732d7563169e542a6648fc5e8e8cd782ca765c5dea9c708ccd9a3648"
+    },
+    {
+      "path": "qa/validation.json",
+      "bytes": 4645,
+      "sha256": "c0410ae60c2186fce8f45b08433fee5f7b6b8379bd06bd13a823e2d392400bf8"
+    },
+    {
+      "path": "qa/weimob-flow.png",
+      "bytes": 100414,
+      "sha256": "aab5b4fc8c9c52ce295a0570eab797a7e12ed85cc4016ba9a21c04a703078cbc"
+    },
+    {
+      "path": "qa/weimob-official.png",
+      "bytes": 101619,
+      "sha256": "d6537469200d21127fdb71a9cfeb30726f1d0aeab48687fcec280af61818d985"
+    },
+    {
+      "path": "research/00-阅读说明与完成度.md",
+      "bytes": 3551,
+      "sha256": "47e5b768a8c5b3aa0689ef9c9c037b487a0af10194f25220a4abd68088a733b2"
+    },
+    {
+      "path": "research/01-有赞.md",
+      "bytes": 14500,
+      "sha256": "b82ff8ab84b4781e34d8b7a19af630cc504b88c302478458655a451392675a67"
+    },
+    {
+      "path": "research/02-纷享销客.md",
+      "bytes": 12455,
+      "sha256": "ecbe305ee59175013fc21abc7f17ab0513ac157e5c54555c13c4f8a3476aa58b"
+    },
+    {
+      "path": "research/03-微盟.md",
+      "bytes": 12232,
+      "sha256": "726c57e65b8a8720f08f2df6d54441ee606621138f5c837206e4d37181283ca4"
+    },
+    {
+      "path": "research/04-Everflow.md",
+      "bytes": 11941,
+      "sha256": "674812642e2b7cd7bf60a9c202ef9d989cacc2910e4bffa3a344087d42c041ca"
+    },
+    {
+      "path": "research/05-Awin.md",
+      "bytes": 13044,
+      "sha256": "29cb127cc82179b2e70dd6924fad1fbacbb8d8d08b3aeba3810f0efaf3f5ffd3"
+    },
+    {
+      "path": "research/06-FirstPromoter.md",
+      "bytes": 12645,
+      "sha256": "00d59e2890a42b3e6eca9241b6042b7668288313663408e2cec9d91b0a901c6a"
+    },
+    {
+      "path": "research/07-Tapfiliate.md",
+      "bytes": 12302,
+      "sha256": "87f453b71c59c003ea902c067756946c4b715650c4c0f34bb977cb6832aeadd1"
+    },
+    {
+      "path": "research/08-Rewardful.md",
+      "bytes": 12828,
+      "sha256": "dfe2c4dadb2ac4777f7f5367661f9e0cf561c9e586ff5111518f8703b5ccd959"
+    },
+    {
+      "path": "research/09-impact.md",
+      "bytes": 12455,
+      "sha256": "7b0ee4f21de80705658941591fabdd6ff7e74955651ee8487be7ce7595f36872"
+    },
+    {
+      "path": "research/09-八款横向对比.md",
+      "bytes": 13656,
+      "sha256": "f99ba95f98d321e4dcc833f95e22975426576282bc6521ee0259301f5594f133"
+    },
+    {
+      "path": "research/10-PartnerStack.md",
+      "bytes": 12809,
+      "sha256": "75e531b4481614d9c979dd50a4bdb40d954bf0175dd4e2bd51ffb21388318aa3"
+    },
+    {
+      "path": "research/10-证据覆盖矩阵.md",
+      "bytes": 6454,
+      "sha256": "b755953466545204c8b9ea7ee3df1e640d81b6a112206eb93deb2bbc66c4c731"
+    },
+    {
+      "path": "research/11-截图来源与核验.md",
+      "bytes": 3938,
+      "sha256": "76268bba867138f8b93d6b00313c895a69d5ce822037202b8b629f503c164356"
+    },
+    {
+      "path": "research/evidence-current.md",
+      "bytes": 8342,
+      "sha256": "7f471674548fc94fa512a56daaa1de1b265cf02246f7437346084ed870e1f04f"
+    },
+    {
+      "path": "research/features.json",
+      "bytes": 41146,
+      "sha256": "d65587a204582dc1d1710a7b7850efd0ee3f64cf7871485f532aec56cce116db"
+    },
+    {
+      "path": "research/new-image-log.json",
+      "bytes": 311,
+      "sha256": "27398a1d0921555bb9add2c14903cc5d0d3bbdfe1bebe3d91f61e9472c31cf9f"
+    },
+    {
+      "path": "research/products.json",
+      "bytes": 16367,
+      "sha256": "d44f3d34fe6d03050d0e625cc25964bc19cb6c3278e44ac34d1ba9e1a1fab304"
+    },
+    {
+      "path": "research/reference-map.json",
+      "bytes": 6379,
+      "sha256": "a819d583b06552b022cd6e03c6d4ec8e53ece7a1ae91102a147af67fa3c2d775"
+    },
+    {
+      "path": "rewardful.html",
+      "bytes": 298824,
+      "sha256": "9816f1326e210ac01f7d13662c9c10cf876b59df577048a89b5fe06a60cc9a08"
+    },
+    {
+      "path": "tapfiliate.html",
+      "bytes": 589043,
+      "sha256": "235a6f3f221abe9aa6f84830f7b65b9b67d3a6d1f9b5f8fe6e5796a84c6f5ad6"
+    },
+    {
+      "path": "weimob.html",
+      "bytes": 138362,
+      "sha256": "d9ea07444c5bd4ee25c4c0900dd73db9c2812d728cac52e7d5fcb92f9e6c1212"
+    },
+    {
+      "path": "youzan.html",
+      "bytes": 198018,
+      "sha256": "77e6e43d0d397ec14c14914c3c61832975004239eb30773bc7350fbfd29f96b0"
+    },
+    {
+      "path": "阅读说明.txt",
+      "bytes": 1555,
+      "sha256": "c05d4f42b90849a9dce8e1c0cf26ec0eb60ba74eedea914611c85de1697ccbb9"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>证据与完成度 · SaaS竞品研究</title><style>
+:root{--ink:#193038;--muted:#62737a;--teal:#136e61;--line:#dde5df;--paper:#fff;--bg:#f4f3ed;--amber:#9b641f}*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:95px}body{margin:0;color:var(--ink);background:var(--bg);font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;font-size:15px;line-height:1.8}a{color:var(--teal);text-decoration:none}a:hover{text-decoration:underline}button,input,select{font:inherit}button,.button{border:1px solid var(--line);background:white;color:var(--ink);border-radius:7px;padding:8px 14px;cursor:pointer}.button.primary{background:var(--teal);color:white;border-color:var(--teal)}.topbar{position:sticky;top:0;z-index:20;background:#193038;color:#fff;display:flex;align-items:center;justify-content:space-between;padding:15px 28px;gap:24px}.topbar a{color:#d8eae2;font-size:13px}.brand{font-weight:650;letter-spacing:1px}.toplinks{display:flex;gap:23px;align-items:center}.layout{display:grid;grid-template-columns:218px minmax(0,1fr);max-width:1560px;margin:auto}.sidebar{align-self:start;position:sticky;top:74px;max-height:calc(100vh - 90px);overflow:auto;padding:28px 17px;font-size:13px}.sidebar a{display:block;padding:7px 9px;border-radius:5px;color:var(--muted)}.sidebar a.current{color:var(--teal);background:#e1ede6;font-weight:650}.sidebar small{display:block;margin:18px 8px 8px;color:#8b9695;letter-spacing:1px}.main{min-width:0;padding:35px 38px 70px}.hero{padding:30px 34px;background:#e5eee8;border:1px solid #d1ded4;border-radius:12px;margin-bottom:28px}.eyebrow{font-size:12px;letter-spacing:2px;color:#53746a;text-transform:uppercase}.hero h1{font-size:34px;line-height:1.35;margin:12px 0 14px;letter-spacing:-.6px}.hero p{max-width:900px;color:#53686c}.meta{display:flex;gap:10px;flex-wrap:wrap}.pill{display:inline-block;border:1px solid #cbd8cd;padding:3px 9px;border-radius:5px;font-size:12px;background:#ffffffa8}.legend{display:flex;gap:18px;flex-wrap:wrap;margin:15px 0;font-size:13px}.badge{border-radius:4px;padding:1px 6px;font-size:11px;white-space:nowrap}.verified{color:#176a54;background:#e6f4eb}.analysis{color:#47608b;background:#ecf0f8}.pending{color:#96601c;background:#fff1dc}.article{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:35px 40px}.article>h1{font-size:27px;margin-top:0}.article h2{border-top:1px solid var(--line);padding-top:30px;margin-top:42px;font-size:25px;line-height:1.4}.article h3{font-size:19px;margin:28px 0 12px}.article p{margin:13px 0}.article ul{padding-left:25px}.article blockquote{border-left:3px solid #b8d4c4;padding:6px 18px;margin:18px 0;color:#62736a;background:#f6faf7}.article code{font-size:.9em;background:#edf2ef;padding:2px 5px;border-radius:4px;overflow-wrap:anywhere}.table-wrap{overflow:auto;max-width:100%;margin:22px 0;border:1px solid var(--line);border-radius:8px}table{border-collapse:collapse;width:100%;font-size:13px;line-height:1.65}th{background:#edf3ee;text-align:left;color:#294c43;font-weight:650}th,td{padding:12px 14px;border-bottom:1px solid #e5ebe5;vertical-align:top}td{min-width:90px}tr:last-child td{border-bottom:0}tbody tr:nth-child(even){background:#fafbf9}.article img{display:block;max-width:100%;height:auto;margin:12px auto;border:1px solid #e0e5df;border-radius:7px;cursor:zoom-in}.image-figure{margin:28px 0;padding:16px;background:#fafbf9;border:1px solid var(--line);border-radius:9px}.image-figure figcaption{font-size:13px;color:#61716d;margin-bottom:8px}.image-figure img{max-width:100%;height:auto;display:block;margin:auto;cursor:zoom-in;max-height:850px;object-fit:contain;background:#fff}.diagram{margin:26px 0;border:1px solid #d8e5dc;border-radius:10px;overflow:hidden;background:#fff}.diagram figcaption{background:#f1f6f2;padding:14px 20px;display:flex;flex-direction:column;gap:3px}.diagram figcaption strong{font-size:15px}.diagram figcaption span{font-size:12px;color:#62776d}.diagram-scroll{overflow:auto}.diagram svg{display:block;width:100%;height:auto;min-width:680px;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif}.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.card{background:#fff;border:1px solid var(--line);padding:24px;border-radius:10px;transition:transform .15s}.card:hover{transform:translateY(-2px)}.card h3{font-size:22px;margin:8px 0}.card p{color:var(--muted);font-size:14px}.card .number{font-size:12px;color:#89a095}.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:15px;margin:25px 0}.stat{padding:20px;border-radius:9px;background:white;border:1px solid var(--line)}.stat strong{font-size:29px;display:block;line-height:1.2}.stat span{font-size:12px;color:var(--muted)}.notice{padding:16px 20px;background:#fff6e9;border:1px solid #ead7b7;border-radius:8px;font-size:13px;margin:20px 0}.toolbar{display:flex;flex-wrap:wrap;gap:10px;margin:20px 0;align-items:center}.toolbar input,.toolbar select{border:1px solid #ccd7ce;border-radius:6px;padding:8px 12px;background:white}.product-select{display:flex;flex-wrap:wrap;gap:8px;font-size:12px;padding:12px 0}.product-select label{background:white;border:1px solid var(--line);border-radius:5px;padding:4px 9px;cursor:pointer}.matrix-wrap{max-height:76vh;overflow:auto;border:1px solid #cddad0;border-radius:9px;background:white}.matrix{width:max-content;min-width:100%;font-size:13px}.matrix th{position:sticky;top:0;z-index:3;background:#23483f;color:#fff}.matrix th:first-child{z-index:5}.matrix th:first-child,.matrix td:first-child{position:sticky;left:0;min-width:190px;max-width:190px;background:#f0f5ef}.matrix th:first-child{background:#23483f}.matrix td{width:218px;min-width:218px;max-width:218px}.matrix td:first-child{z-index:2}.matrix small{display:block;font-size:10px;color:#73837a;margin-top:8px}.matrix .source-links{font-size:10px;margin-top:8px}.matrix .source-links a{margin-right:6px}.source-links a{overflow-wrap:anywhere}.category{font-size:10px;color:#769086;display:block;margin-bottom:4px}footer{color:#77867d;font-size:12px;margin-top:35px}.lightbox{position:fixed;inset:0;background:#152720ee;z-index:99;overflow:auto;padding:60px 30px;display:none}.lightbox.open{display:block}.lightbox img{display:block;max-width:100%;height:auto;margin:auto;background:white}.lightbox button{position:fixed;right:22px;top:15px}.lightbox .caption{color:white;text-align:center}.chapter-nav{font-size:12px;line-height:1.4;border-top:1px solid var(--line);margin-top:20px;padding-top:8px}.wide-layout{display:block;max-width:1900px}.wide-layout .main{padding:30px}.no-results{padding:30px;text-align:center;color:#7a877e}button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #dcab5e;outline-offset:3px}@media(max-width:900px){.layout{display:block}.sidebar{display:none}.main{padding:18px}.article{padding:22px}.hero{padding:24px}.hero h1{font-size:28px}.toplinks{gap:12px}.topbar{padding:12px 16px}.stats{grid-template-columns:repeat(2,1fr)}.cards{grid-template-columns:1fr}.wide-layout .main{padding:15px}}@media print{.topbar,.sidebar,.toolbar,.product-select,.lightbox{display:none!important}.layout{display:block}.main{padding:0}.article,.hero{border:0;padding:0}.diagram,.image-figure{break-inside:avoid}.table-wrap,.matrix-wrap{overflow:visible;max-height:none}.matrix{font-size:8px;width:100%}.matrix td{min-width:0;max-width:none}.matrix th,.matrix td:first-child{position:static}.diagram svg{min-width:0}.hero{background:white}body{background:white}} </style></head><body><header class="topbar"><a class="brand" href="index.html">PARTNER SYSTEMS / 竞品研究</a><nav class="toplinks"><a href="comparison.html">功能比较</a><a href="evidence.html">证据与边界</a><button data-print>打印 / PDF</button></nav></header><div class="layout "><aside class="sidebar"><small>研究入口</small><a href="index.html">总览与阅读顺序</a><a href="comparison.html">功能项横向比较</a><a href="evidence.html">证据覆盖与缺口</a><a href="gallery.html">官方图片图录</a><small>纵向 · 十款独立报告</small><a class="" href="youzan.html">有赞</a><a class="" href="fxiaoke.html">纷享销客</a><a class="" href="weimob.html">微盟</a><a class="" href="everflow.html">Everflow</a><a class="" href="awin.html">Awin</a><a class="" href="firstpromoter.html">FirstPromoter</a><a class="" href="tapfiliate.html">Tapfiliate</a><a class="" href="rewardful.html">Rewardful</a><a class="" href="impact.html">impact.com</a><a class="" href="partnerstack.html">PartnerStack</a></aside><main class="main"><section class="hero"><div class="eyebrow">EVIDENCE & LIMITS</div><h1>证据覆盖，而非功能评分</h1><p>继承八款证据基线，新增两款官方研究。所有概念模型、状态分层与优化建议均为分析，不是厂商内部实现承诺。</p><div class="legend"><span><b class="badge verified">官方验证</b> 文档或官方图片支持</span><span><b class="badge analysis">分析推断</b> 研究重构与评价</span><span><b class="badge pending">待验证</b> 缺口/版本/实测</span></div></section><article class="article"><h1>十款证据覆盖与交付边界</h1>
+<p>原八款证据基线：2026-10-13至14；本次十款HTML版本：2026-10-15。此表衡量研究证据覆盖，不是产品能力得分。编号对应各单款报告来源目录；有链接的“官方验证”均为文档层面验证。未登录任何付费租户，未执行真实付款。</p>
+<h2>1 逐产品、逐主题覆盖</h2>
+<p>标记：<strong>V</strong>=直接官方文字/图像支持；<strong>P</strong>=部分支持、版本/范围有限；<strong>D</strong>=资料冲突需核验；<strong>G</strong>=缺口；<strong>A</strong>=分析重构。单格可同时有证据与缺口。</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>产品</th>
+<th>定位/购买方</th>
+<th>主流程</th>
+<th>三级功能</th>
+<th>页面图片</th>
+<th>对象/关系</th>
+<th>状态/规则</th>
+<th>退款/异常</th>
+<th>权限</th>
+<th>资金</th>
+<th>API</th>
+<th>价格/经营</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>有赞</td>
+<td>V Y1/Y2</td>
+<td>A+V Y3/Y4/Y5/Y9</td>
+<td>P Y2/Y3/Y7</td>
+<td>V Y6/Y9截图</td>
+<td>A+V Y4</td>
+<td>P Y4/Y7/Y9</td>
+<td>P Y5/Y9</td>
+<td>G</td>
+<td>P Y6/Y9</td>
+<td>P Y3</td>
+<td>P 能力包；统一价G</td>
+</tr>
+<tr>
+<td>纷享销客</td>
+<td>V F1/F2</td>
+<td>V F3</td>
+<td>P F1/F2/F3</td>
+<td>P F2营销展示</td>
+<td>A+V F1/F3</td>
+<td>P 流程；枚举G</td>
+<td>P 报备/审批；资金G</td>
+<td>V F4</td>
+<td>P 订货通邻接</td>
+<td>P F5摘要</td>
+<td>G 模块价/经营数据</td>
+</tr>
+<tr>
+<td>微盟</td>
+<td>V W1/W2</td>
+<td>A+V W1/W4</td>
+<td>P W1/W3/W4</td>
+<td>V W1截图</td>
+<td>A+V W1</td>
+<td>D W1/W4及产品线</td>
+<td>P W1</td>
+<td>P 门店/隐私</td>
+<td>P W1</td>
+<td>P W6</td>
+<td>P W5旧文档；现价G</td>
+</tr>
+<tr>
+<td>Everflow</td>
+<td>V E1</td>
+<td>A+V E2/E4/E5</td>
+<td>P E1/E2/E4/E5</td>
+<td>V E2截图</td>
+<td>A+V E2</td>
+<td>V E2/E3；全枚举G</td>
+<td>P E4/E5；退款G</td>
+<td>P API范围E6</td>
+<td>V E4/E5</td>
+<td>V概览E6，契约P</td>
+<td>P E7；平台价G</td>
+</tr>
+<tr>
+<td>Awin</td>
+<td>V A1</td>
+<td>A+V A3/A4/A5</td>
+<td>P A1/A2/A4</td>
+<td>P A8活动营销展示；收益后台G</td>
+<td>A</td>
+<td>V A3/A4/A5</td>
+<td>P 拒绝/阻塞；退款G</td>
+<td>P A2/A7</td>
+<td>V A3；合同P</td>
+<td>P A7</td>
+<td>V 英国A2；经营G</td>
+</tr>
+<tr>
+<td>FirstPromoter</td>
+<td>V P1/P2</td>
+<td>A+V P3/P5</td>
+<td>P P1/P2/P4/P6</td>
+<td>P P4官方展示</td>
+<td>A+V P1/P3</td>
+<td>V P2/P4/P5</td>
+<td>P P4/P7</td>
+<td>G 完整角色表</td>
+<td>P P5/通道入口</td>
+<td>P P3/P8</td>
+<td>V P6；经营G</td>
+</tr>
+<tr>
+<td>Tapfiliate</td>
+<td>V T1/T2</td>
+<td>A+V T3/T4/T7</td>
+<td>P T1/T3/T4</td>
+<td>V T4截图</td>
+<td>A+V T4/T8</td>
+<td>D Cookie；V审核T5</td>
+<td>V T5/T6</td>
+<td>P T1主题</td>
+<td>V T4/T6/T7</td>
+<td>V T8示例；防重G</td>
+<td>V T1；经营G</td>
+</tr>
+<tr>
+<td>Rewardful</td>
+<td>V R1/R2</td>
+<td>A+V R1/R3/R4</td>
+<td>P R1/R2/R3</td>
+<td>V R3截图+展示</td>
+<td>A+V R1/R3</td>
+<td>V R1；版本P</td>
+<td>P R3/R4</td>
+<td>P 隐私/团队</td>
+<td>V R4；资格P</td>
+<td>V概览R5/R6</td>
+<td>V R2；经营G</td>
+</tr>
+</tbody></table></div>
+<p>三级清单均只覆盖本次研究的核心及明确标出的邻接能力，不宣称穷尽所有商业版本。所有对象图均为领域模型；没有将官方宣传页面中的名称冒充数据库表。</p>
+<h2>2 关键结论—证据—缺口</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>产品</th>
+<th>关键结论</th>
+<th>直接证据</th>
+<th>需要补充</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>有赞</td>
+<td>绑客保护与结算售后是两个规则系统</td>
+<td><a href="https://help.youzan.com/displaylist/detail_4_4-1-39927">Y4</a>、<a href="https://help.youzan.com/displaylist/detail_5_5-2-31738">Y9</a></td>
+<td>跨端覆盖、结算后追偿</td>
+</tr>
+<tr>
+<td>有赞</td>
+<td>清退不等于历史收益入口取消</td>
+<td><a href="https://help.youzan.com/displaylist/detail_5_5-1-19559">Y6</a></td>
+<td>未结算订单延续</td>
+</tr>
+<tr>
+<td>纷享销客</td>
+<td>上游配置，下游受控访问</td>
+<td><a href="https://help.fxiaoke.com/83d7/91e3/a544/8179">F4</a></td>
+<td>服务端越权测试</td>
+</tr>
+<tr>
+<td>纷享销客</td>
+<td>Leads到订单协作不等于原生联盟付款</td>
+<td><a href="https://help.fxiaoke.com/83d7/91e3/a544/f329">F3</a></td>
+<td>回款、返利与ERP边界</td>
+</tr>
+<tr>
+<td>微盟</td>
+<td>绑定微客与邀请人独立</td>
+<td><a href="https://help.weimob.com/details/1847">W1</a></td>
+<td>关系迁移及订单快照</td>
+</tr>
+<tr>
+<td>微盟</td>
+<td>自购与等级限制不能统一概括</td>
+<td><a href="https://help.weimob.com/details/1847">W1</a>、<a href="https://help.weimob.com/os/article/5370">W4</a></td>
+<td>租户/版本/开关</td>
+</tr>
+<tr>
+<td>Everflow</td>
+<td>Coupon优先需要aid参数</td>
+<td><a href="https://helpdesk.everflow.io/customer/everflows-conversion-attribution-priority">E3</a></td>
+<td>冲突用例</td>
+</tr>
+<tr>
+<td>Everflow</td>
+<td>Mark as Paid不转账，Approve &amp; Pay亦有None例外</td>
+<td><a href="https://helpdesk.everflow.io/customer/processing-partner-payments">E5</a></td>
+<td>真实通道回执</td>
+</tr>
+<tr>
+<td>Awin</td>
+<td>Approved不等于Payable</td>
+<td><a href="https://success.awin.com/articles/en_US/Knowledge/Understanding-Transaction-Status-and-Payment-Process">A3</a></td>
+<td>广告主资金与合同责任</td>
+</tr>
+<tr>
+<td>Awin</td>
+<td>Validation Period是平均值，不是SLA</td>
+<td><a href="https://success.awin.com/articles/en_US/Knowledge/How-long-does-it-take-for-an-advertiser-to-approve-a-transaction">A5</a></td>
+<td>超期申诉、自动验证</td>
+</tr>
+<tr>
+<td>FirstPromoter</td>
+<td>NET-30按月末算，不是逐单30天</td>
+<td><a href="https://help.firstpromoter.com/en/articles/9019492-how-payouts-work-in-firstpromoter">P5</a></td>
+<td>Custom/多币种</td>
+</tr>
+<tr>
+<td>FirstPromoter</td>
+<td>退款负佣金，Braintree例外</td>
+<td><a href="https://firstpromoter.com/features/affiliate-commission-software">P4</a></td>
+<td>已付后冲正及余额</td>
+</tr>
+<tr>
+<td>Tapfiliate</td>
+<td>Settled不证明实际付款</td>
+<td><a href="https://support.tapfiliate.com/en/articles/13272686-the-payout-process-settling-balances-and-generating-a-payout-file">T4</a></td>
+<td>文件与支付方对账</td>
+</tr>
+<tr>
+<td>Tapfiliate</td>
+<td>原生Hands-Free仍有Coming soon表述</td>
+<td><a href="https://tapfiliate.com/pricing/">T1</a></td>
+<td>实际发布、地区和资格</td>
+</tr>
+<tr>
+<td>Rewardful</td>
+<td>Invoice支付及退款驱动佣金</td>
+<td><a href="https://www.rewardful.com/articles/how-rewardful-pays-affiliate-commissions">R3</a></td>
+<td>已付后退款、乱序</td>
+</tr>
+<tr>
+<td>Rewardful</td>
+<td>0%归因收入费与3%托管付款费不同</td>
+<td><a href="https://www.rewardful.com/pricing">R2</a></td>
+<td>支付地区、提现费</td>
+</tr>
+</tbody></table></div>
+<h2>3 不应填补为事实的缺口</h2>
+<ul>
+<li>全部产品：真实租户全菜单、灰度版本、角色组合、字段级模式、规则历史快照、全量接口限流/幂等与生产SLA。</li>
+<li>国内产品：旧帮助文档与当前套餐映射、资金通道限制、当前售价。</li>
+<li>海外产品：收款人国家资格、支付与提现手续费、税表/KYC具体适用范围、跨币种舍入。</li>
+<li>企业经营：模块独立收入、客户平均ROI、真实留存、获客成本。未把产品支持的报表与软件厂商自身经营指标混淆。</li>
+<li>Awin：已取得官方Campaign营销界面展示；后台Earnings Summary/验证页面操作截图尚需补验。</li>
+<li>纷享销客：F5正文读取曾超时，仅将可读官方索引摘要作为部分证据，不以此列接口契约。</li>
+</ul>
+<h2>4 研究方法与完成度解释</h2>
+<p>检索优先官方产品、帮助中心、开发者文档、定价与版本发布；相关正文已打开阅读，少数超时项在来源处标明。图片从官方文章或官方产品页提取，下载后以实际画面核对标题，避免依赖文件名和alt误导。未使用第三方评分站价格作为现价依据，未把其他产品的截图作为替代。</p>
+<p>事实、推断和待验证逐段/逐表标记。流程图是研究重构，三级功能按研究范围罗列，所有资金结论明确区分“记账”“付款执行”和“到账”。完成的是公开证据研究成品，而非验收测试报告。</p>
+<h2>5 新增两款与本次更新</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>产品</th>
+<th>本次官方阅读</th>
+<th>页面</th>
+<th>状态与资金</th>
+<th>API</th>
+<th>主要缺口</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>impact.com</td>
+<td>I1—I8直接打开</td>
+<td>资金概览/预测原图</td>
+<td>合同、Credit/Payout Groups、Pending/Locked/Clearing/Overdue</td>
+<td>仅门户范围</td>
+<td>完整API/权限、锁定后退款、现价</td>
+</tr>
+<tr>
+<td>PartnerStack</td>
+<td>S1—S10直接打开</td>
+<td>审核详情/伙伴首页原图</td>
+<td>Group/Deal、Drip、企业审核与伙伴提现分层</td>
+<td>Partner API与Deal字段</td>
+<td>归因冲突、退款自动化、权限组合、防重</td>
+</tr>
+</tbody></table></div>
+<p><span class="badge verified">官方验证</span> impact.com现行资金策略页列Net30(PRF)、Net45(SOI)、Net45+(SOI)三类；本版没有沿用旧报告的两类概括。Payout Groups一次一个的证据改为对应专门文档，不把Credit Groups当成计价分组来源。</p>
+<h2>6 完成度与不可替代的实测</h2>
+<p>十款均已交付八章HTML、主流程图、对象关联图、状态/资金条件图和直接可见的本地官方图片。28项功能横向比较保留逐格官方来源。HTML不依赖在线字体、图片、脚本或图表服务。报告图片内嵌，单个HTML也可独立打开。</p>
+<p><span class="badge pending">待验证</span> 有赞、微盟、Everflow、Tapfiliate、Rewardful、impact.com、PartnerStack有官方帮助/文章界面截图；本次新增FirstPromoter的Stripe连接真实帮助截图和Awin Classic商品分类映射真实帮助截图。纷享销客当前图主要为官方界面合成展示，仍需补直接操作图；Awin收益页与交易验证页也待补。所有图都不是本次登录租户的操作实测。八款基线没有全部在15日重读，原价格观察日保留，不宣称此刻销售报价。</p>
+<p>全量付费版本菜单、真实生产API、权限拒绝、资金到账、幂等和回调乱序未实测。三级功能清单覆盖公开证据范围，不以未知填补支持/不支持。没有套用BFF业务。</p>
+</article><footer>研究批次 2026.10.15 · 官方资料研究版 · 源文件与附件随包保留 · 未执行付费租户及真实付款测试</footer></main></div><div id="lightbox" class="lightbox" role="dialog" aria-label="官方截图放大"><button>关闭 ×</button><p class="caption"></p><img alt="放大的官方截图"></div><script>document.querySelectorAll('img[data-full]').forEach(im=>{im.addEventListener('click',()=>{let l=document.getElementById('lightbox');l.querySelector('img').src=im.src;l.querySelector('.caption').textContent=im.alt;l.classList.add('open');l.querySelector('button').focus()})});document.querySelector('#lightbox button')?.addEventListener('click',()=>document.getElementById('lightbox').classList.remove('open'));document.addEventListener('keydown',e=>{if(e.key==='Escape')document.getElementById('lightbox')?.classList.remove('open')});document.querySelector('[data-print]')?.addEventListener('click',()=>window.print());</script></body></html>

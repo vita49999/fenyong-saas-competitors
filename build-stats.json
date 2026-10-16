@@ -1,0 +1,220 @@
+{
+  "reports": [
+    {
+      "id": "youzan",
+      "file": "youzan.html",
+      "chapters": 8,
+      "graphs": 3,
+      "characters": 6269
+    },
+    {
+      "id": "fxiaoke",
+      "file": "fxiaoke.html",
+      "chapters": 8,
+      "graphs": 3,
+      "characters": 5399
+    },
+    {
+      "id": "weimob",
+      "file": "weimob.html",
+      "chapters": 8,
+      "graphs": 3,
+      "characters": 5269
+    },
+    {
+      "id": "everflow",
+      "file": "everflow.html",
+      "chapters": 8,
+      "graphs": 3,
+      "characters": 6267
+    },
+    {
+      "id": "awin",
+      "file": "awin.html",
+      "chapters": 8,
+      "graphs": 3,
+      "characters": 6516
+    },
+    {
+      "id": "firstpromoter",
+      "file": "firstpromoter.html",
+      "chapters": 8,
+      "graphs": 3,
+      "characters": 6695
+    },
+    {
+      "id": "tapfiliate",
+      "file": "tapfiliate.html",
+      "chapters": 8,
+      "graphs": 3,
+      "characters": 6431
+    },
+    {
+      "id": "rewardful",
+      "file": "rewardful.html",
+      "chapters": 8,
+      "graphs": 3,
+      "characters": 6545
+    },
+    {
+      "id": "impact",
+      "file": "impact.html",
+      "chapters": 8,
+      "graphs": 3,
+      "characters": 7535
+    },
+    {
+      "id": "partnerstack",
+      "file": "partnerstack.html",
+      "chapters": 8,
+      "graphs": 3,
+      "characters": 7547
+    }
+  ],
+  "comparison_rows": 28,
+  "comparison_cells": 280,
+  "graphs": 32,
+  "images": [
+    {
+      "name": "youzan-withdraw.png",
+      "product": "有赞",
+      "kind": "官方帮助截图：个人中心装修入口",
+      "source": "https://help.youzan.com/displaylist/detail_5_5-1-19559",
+      "note": "已核对实际画面；不是手机提现结果"
+    },
+    {
+      "name": "weimob-attribution.png",
+      "product": "微盟",
+      "kind": "官方帮助截图：关系与分佣设置",
+      "source": "https://help.weimob.com/details/1847",
+      "note": "已核对实际画面"
+    },
+    {
+      "name": "fxiaoke-portal.png",
+      "product": "纷享销客",
+      "kind": "官方营销合成：CRM与移动门户",
+      "source": "https://www.fxiaoke.com/ap/product-outer/",
+      "note": "界面展示，不是本次操作"
+    },
+    {
+      "name": "fxiaoke-connection.png",
+      "product": "纷享销客",
+      "kind": "官方业务连接示意",
+      "source": "https://help.fxiaoke.com/83d7/91e3/a544/0a1f",
+      "note": "非UI截图"
+    },
+    {
+      "name": "everflow-events.png",
+      "product": "Everflow",
+      "kind": "官方帮助截图：全局事件关联开关",
+      "source": "https://helpdesk.everflow.io/customer/how-to-set-up-conversion-events",
+      "note": "保留官方高亮遮罩"
+    },
+    {
+      "name": "awin-campaigns.webp",
+      "product": "Awin",
+      "kind": "官方营销合成：Campaign创建/发布",
+      "source": "https://www.awin.com/gb/product-releases/winter-2026",
+      "note": "不是收益及交易验证截图"
+    },
+    {
+      "name": "awin-tracking.webp",
+      "product": "Awin",
+      "kind": "官方收益卡片插图",
+      "source": "https://www.awin.com/gb/product-releases/winter-2026",
+      "note": "仅存档，不用于后台结构结论"
+    },
+    {
+      "name": "firstpromoter-rules.png",
+      "product": "FirstPromoter",
+      "kind": "官方界面展示：Campaign配置",
+      "source": "https://firstpromoter.com/features/affiliate-commission-software",
+      "note": "文件名及alt不能反映实际内容，按画面标注"
+    },
+    {
+      "name": "firstpromoter-plans.png",
+      "product": "FirstPromoter",
+      "kind": "官方界面展示：Stripe Payouts",
+      "source": "https://firstpromoter.com/features/affiliate-commission-software",
+      "note": "实际不是coupon/plan规则图"
+    },
+    {
+      "name": "tapfiliate-balance1.png",
+      "product": "Tapfiliate",
+      "kind": "官方帮助截图：商家余额列表",
+      "source": "https://support.tapfiliate.com/en/articles/13272686-the-payout-process-settling-balances-and-generating-a-payout-file",
+      "note": "可见正负余额及结算操作"
+    },
+    {
+      "name": "tapfiliate-balance2.png",
+      "product": "Tapfiliate",
+      "kind": "官方帮助截图：伙伴负余额",
+      "source": "https://support.tapfiliate.com/en/articles/13272686-the-payout-process-settling-balances-and-generating-a-payout-file",
+      "note": "可见负佣金金额"
+    },
+    {
+      "name": "rewardful-payouts-ui.jpg",
+      "product": "Rewardful",
+      "kind": "官方文章局部截图：Payouts状态",
+      "source": "https://www.rewardful.com/articles/how-rewardful-pays-affiliate-commissions",
+      "note": "保留原图模糊金额"
+    },
+    {
+      "name": "rewardful-minimum-payout-threshold-interface.jpg",
+      "product": "Rewardful",
+      "kind": "官方文章截图：门槛与隐私",
+      "source": "https://www.rewardful.com/articles/how-rewardful-pays-affiliate-commissions",
+      "note": "可见Campaign设置"
+    },
+    {
+      "name": "rewardful-managed-payouts.jpg",
+      "product": "Rewardful",
+      "kind": "官方宣传示意：托管付款",
+      "source": "https://www.rewardful.com/articles/how-rewardful-pays-affiliate-commissions",
+      "note": "非操作截图"
+    },
+    {
+      "name": "impact-finance-overview.png",
+      "product": "impact.com",
+      "kind": "官方帮助截图：资金概览",
+      "source": "https://help.impact.com/brand/what-would-you-like-to-learn-about/platform-features/finance/add-funds-to-your-funding-account/your-funding-account-overview-explained",
+      "note": "原附件13日保存，15日页面重新核对"
+    },
+    {
+      "name": "impact-balance-forecast.png",
+      "product": "impact.com",
+      "kind": "官方帮助截图：资金预测",
+      "source": "https://help.impact.com/brand/what-would-you-like-to-learn-about/platform-features/finance/add-funds-to-your-funding-account/your-funding-account-overview-explained",
+      "note": "示例45天预测，非真实经营数据"
+    },
+    {
+      "name": "partnerstack-review.png",
+      "product": "PartnerStack",
+      "kind": "官方帮助截图：佣金详情",
+      "source": "https://support.partnerstack.com/hc/en-us/articles/360009840773-Reviewing-partner-commissions",
+      "note": "本次下载，示例显示2024-06-28记录"
+    },
+    {
+      "name": "partnerstack-dashboard.png",
+      "product": "PartnerStack",
+      "kind": "官方帮助截图：伙伴首页",
+      "source": "https://support.partnerstack.com/hc/en-us/articles/360016866594-Comprehensive-overview-of-the-partner-dashboard",
+      "note": "官方文件名含2024-04-25；访问日不是版本日"
+    },
+    {
+      "name": "firstpromoter-stripe-help.png",
+      "product": "FirstPromoter",
+      "kind": "官方帮助截图：Stripe连接和测试模式",
+      "source": "https://help.firstpromoter.com/en/articles/8971438-how-to-integrate-stripe",
+      "note": "2026-10-15下载；官方文件名含2024-03-29，非当前租户操作"
+    },
+    {
+      "name": "awin-feed-mapping.png",
+      "product": "Awin",
+      "kind": "官方帮助截图：Classic Feed分类映射",
+      "source": "https://help.awin.com/developers/docs/managing-your-feed",
+      "note": "2026-10-15下载；Classic功能，文档更新2025-10-21，非新后台收益页"
+    }
+  ],
+  "reference_count": 77
+}

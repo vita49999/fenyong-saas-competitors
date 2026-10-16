@@ -1,0 +1,2158 @@
+[
+  {
+    "category": "准入与关系",
+    "name": "招募与准入",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "添加/导入/招募链接",
+        "refs": [
+          "Y3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "企业邀请与连接审批",
+        "refs": [
+          "F3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "申请条件/自动成为微客",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Partner管理",
+        "refs": [
+          "E1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "网络及广告主计划",
+        "refs": [
+          "A6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Campaign注册/门户",
+        "refs": [
+          "P1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Affiliate招募",
+        "refs": [
+          "T1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "活动招募入口",
+        "refs": [
+          "R1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "发送/接受条款",
+        "refs": [
+          "I1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Marketplace/项目入口",
+        "refs": [
+          "S1"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "准入与关系",
+    "name": "分组与差异政策",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "等级/分组结算",
+        "refs": [
+          "Y2",
+          "Y9"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "伙伴分级分类",
+        "refs": [
+          "F1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "等级/门店资格",
+        "refs": [
+          "W1",
+          "W3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Partner/Offer分别管理",
+        "refs": [
+          "E1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "计划/commission groups",
+        "refs": [
+          "A2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Campaign默认+个体覆盖",
+        "refs": [
+          "P4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Groups/分组佣金",
+        "refs": [
+          "T1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Campaign/自定义奖励",
+        "refs": [
+          "R2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "合同与条款模板",
+        "refs": [
+          "I1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Group驱动资源与Offer",
+        "refs": [
+          "S2",
+          "S3"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "准入与关系",
+    "name": "退出后的历史权益",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "清退仍有提现入口",
+        "refs": [
+          "Y6"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "断开互联的未完业务",
+        "refs": [
+          "F4"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "清退后未结奖励",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "停用后Invoice",
+        "refs": [
+          "E4"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "退出计划未付佣金",
+        "refs": [
+          "A3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "停用Promoter后Payout",
+        "refs": [
+          "P5"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "退出且负余额",
+        "refs": [
+          "T5"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "历史门户访问",
+        "refs": [
+          "R1"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "终止合同未结Action",
+        "refs": [
+          "I4"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "移除伙伴未付佣金",
+        "refs": [
+          "S8"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "归属与归因",
+    "name": "客户绑定/报备保护",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "绑定期/保护期/抢客",
+        "refs": [
+          "Y4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "查重/报备/公海，期限待验",
+        "refs": [
+          "F3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "关系链优先与续期",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "非已证CRM保护",
+        "refs": [
+          "E3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "计划归因非客户保护",
+        "refs": [
+          "A1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Referral关联计费客户",
+        "refs": [
+          "P3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Cookie/客户识别",
+        "refs": [
+          "T3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "推荐客户连接后续Invoice",
+        "refs": [
+          "R1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "合同归因非CRM报备",
+        "refs": [
+          "I2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "客户归属补录，保护期待验",
+        "refs": [
+          "S5"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "归属与归因",
+    "name": "链接/浏览器追踪",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "分享链接与绑客",
+        "refs": [
+          "Y3",
+          "Y4"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "主链是报备，Cookie未核",
+        "refs": [
+          "F3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "带微客链接与缓存",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "SDK/Transaction ID/Cookie",
+        "refs": [
+          "E3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "追踪推广链接",
+        "refs": [
+          "A6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Click与Referral脚本",
+        "refs": [
+          "P3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Base/Conversion脚本",
+        "refs": [
+          "T3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "via参数与集成",
+        "refs": [
+          "R1",
+          "R2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Action追踪；接入细节待验",
+        "refs": [
+          "I4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "默认/自定义推荐链接",
+        "refs": [
+          "S3"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "归属与归因",
+    "name": "码与点击优先级",
+    "cells": [
+      {
+        "status": "pending",
+        "text": "优惠券绑客非码优先",
+        "refs": [
+          "Y2"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "未核码归因",
+        "refs": [
+          "F3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "不同产品线需补验",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Coupon/Click优先可选、需aid",
+        "refs": [
+          "E3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "冲突优先级未核",
+        "refs": [
+          "A2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "优惠码追踪，混合优先待验",
+        "refs": [
+          "P6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "码追踪，优先细节待验",
+        "refs": [
+          "T3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Coupon支持，冲突细节待验",
+        "refs": [
+          "R2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Credit Group先于Promo Code",
+        "refs": [
+          "I2"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "码归因优先级",
+        "refs": [
+          "S3"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "归属与归因",
+    "name": "Lead/Deal/商机",
+    "cells": [
+      {
+        "status": "pending",
+        "text": "销售线索非完整报备",
+        "refs": [
+          "Y2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "客户报备、商机联合",
+        "refs": [
+          "F3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "微客/导购非已验PRM",
+        "refs": [
+          "W2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "事件可表达漏斗，非CRM",
+        "refs": [
+          "E2"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "Lead不等于Deal治理",
+        "refs": [
+          "A4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Referral线索，Deal未验",
+        "refs": [
+          "P3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "Conversion不是商机审批",
+        "refs": [
+          "T3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "推荐客户非Deal",
+        "refs": [
+          "R1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Action可为Lead，报备未验",
+        "refs": [
+          "I4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Lead/Deal登记与CRM同步",
+        "refs": [
+          "S4"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "归属与归因",
+    "name": "手工补录/归属修正",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "商家调整客户关系",
+        "refs": [
+          "Y4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "客户领取/退回及审批",
+        "refs": [
+          "F3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "客户重绑/解绑",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Clickless；补录全链待验",
+        "refs": [
+          "E3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Bonus/Query；追溯待验",
+        "refs": [
+          "A4"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "手工归属与重算",
+        "refs": [
+          "P3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Conversion import，重归属待验",
+        "refs": [
+          "T1"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "跨设备补归因",
+        "refs": [
+          "R3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "补录EventDate为业务基准",
+        "refs": [
+          "I4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Customer/Transaction及key补录",
+        "refs": [
+          "S5"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "计佣与激励",
+    "name": "奖励触发事实",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "推广订单实付",
+        "refs": [
+          "Y9"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "商机/订单业绩，原生佣金待验",
+        "refs": [
+          "F3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "订单行与奖励规则",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Base/Additional Event",
+        "refs": [
+          "E2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "追踪交易经验证",
+        "refs": [
+          "A3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "确认计费事件",
+        "refs": [
+          "P4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Conversion与规则",
+        "refs": [
+          "T3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Invoice paid",
+        "refs": [
+          "R3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "获归因的Action/Event",
+        "refs": [
+          "I4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "事件Trigger/Deal阶段",
+        "refs": [
+          "S2",
+          "S4"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "计佣与激励",
+    "name": "公式与计算层级",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "净实付×佣金率",
+        "refs": [
+          "Y9"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "价目表/折扣，计佣公式未核",
+        "refs": [
+          "F3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "数量/比例，多奖励介质",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Event Revenue与Payout分开",
+        "refs": [
+          "E2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Commission groups，基数待验",
+        "refs": [
+          "A2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "固定额/比例",
+        "refs": [
+          "P2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "标准/分组/商品类别费率",
+        "refs": [
+          "T1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "活动奖励，税折扣基数待验",
+        "refs": [
+          "R1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "固定/比例，订单/商品层级",
+        "refs": [
+          "I1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "固定/比例，按Group差异",
+        "refs": [
+          "S2"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "计佣与激励",
+    "name": "订阅续费与终止",
+    "cells": [
+      {
+        "status": "pending",
+        "text": "不据周期购推定计佣",
+        "refs": [
+          "Y2"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "CRM续费非循环佣金证据",
+        "refs": [
+          "F3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "订阅循环计佣",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "多事件表达续费，接入需验",
+        "refs": [
+          "E1"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "按计划核验",
+        "refs": [
+          "A1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "lifetime/限定月数/次数",
+        "refs": [
+          "P2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Recurring commissions",
+        "refs": [
+          "T1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "客户续费Invoice自动计佣",
+        "refs": [
+          "R3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Event/合同规则，边界待验",
+        "refs": [
+          "I1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "收费事件和Drip需分别理解",
+        "refs": [
+          "S6"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "计佣与激励",
+    "name": "等待窗口/分期",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "售后结束后结算",
+        "refs": [
+          "Y9"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "返利/费用支付边界",
+        "refs": [
+          "F2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "结算条件与分账",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "手审/Invoice Net Terms",
+        "refs": [
+          "E2",
+          "E4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "验证和可付处理",
+        "refs": [
+          "A3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "NET账期不等于分期",
+        "refs": [
+          "P5"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "截止日期筛选，非自动分期",
+        "refs": [
+          "T4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Pending到期与门槛",
+        "refs": [
+          "R1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "锁定期与清算计划",
+        "refs": [
+          "I4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Drip delay/cycle/次数",
+        "refs": [
+          "S6"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "计佣与激励",
+    "name": "个体/等级激励",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "等级及团队奖励",
+        "refs": [
+          "Y2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "伙伴分类/目标/培训",
+        "refs": [
+          "F2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "等级差异与邀请奖励",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "事件与伙伴收益配置",
+        "refs": [
+          "E2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "商品/客群/Publisher规则",
+        "refs": [
+          "A2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "个体覆盖/分段费率",
+        "refs": [
+          "P2",
+          "P4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Groups/Items/Category/Bonus",
+        "refs": [
+          "T1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "自定义与双向奖励",
+        "refs": [
+          "R2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "合同Payout Groups",
+        "refs": [
+          "I3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Group/Offer及Challenge",
+        "refs": [
+          "S1",
+          "S2"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "审核与风控",
+    "name": "审核、拒绝、挂起",
+    "cells": [
+      {
+        "status": "pending",
+        "text": "全量佣金审核状态表",
+        "refs": [
+          "Y9"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "报备/折扣/阶段审批",
+        "refs": [
+          "F3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "资格/提现审核",
+        "refs": [
+          "W1",
+          "W3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "人工Approve/超限Pending",
+        "refs": [
+          "E2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Pending/Approved/Declined",
+        "refs": [
+          "A4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "自动/人工/金额阈值",
+        "refs": [
+          "P4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "佣金批准/拒绝",
+        "refs": [
+          "T5"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Pending/Due及人工管理",
+        "refs": [
+          "R1",
+          "R4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Pending可Modify/Reverse",
+        "refs": [
+          "I4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "New/Approved/Declined/Hold",
+        "refs": [
+          "S7"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "审核与风控",
+    "name": "规则冲突与优先级",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "抢客选项，配合保护期",
+        "refs": [
+          "Y4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "上游流程，撞单裁决待验",
+        "refs": [
+          "F3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "自购表述与版本冲突",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "归因回退顺序",
+        "refs": [
+          "E3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "规则重叠优先",
+        "refs": [
+          "A2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "个体奖励覆盖活动默认",
+        "refs": [
+          "P4"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "多层费率重叠",
+        "refs": [
+          "T1"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "跨活动冲突",
+        "refs": [
+          "R2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "一次一个Group，具体条件优先",
+        "refs": [
+          "I3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Group/key，Trigger重叠待验",
+        "refs": [
+          "S5"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "退款与异常",
+    "name": "结算前部分退款",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "退款部分不计佣",
+        "refs": [
+          "Y9"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "订货/返利冲正",
+        "refs": [
+          "F2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "奖励返还算法",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "退款接口及调整全链",
+        "refs": [
+          "E2"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "部分拒绝/金额调整",
+        "refs": [
+          "A4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "负佣金机制，舍入待验",
+        "refs": [
+          "P4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "修改佣金差额",
+        "refs": [
+          "T5"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "部分退款调整",
+        "refs": [
+          "R3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "锁定前可改Action",
+        "refs": [
+          "I4"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "退款自动化全链",
+        "refs": [
+          "S5",
+          "S6"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "退款与异常",
+    "name": "已付后退款/追回",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "旧FAQ提示无线上追回",
+        "refs": [
+          "Y5"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "已付款后追偿",
+        "refs": [
+          "F2"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "已提现后追偿",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "已付Invoice差额",
+        "refs": [
+          "E4"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "负余额与追偿",
+        "refs": [
+          "A3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "负佣金，真实追回待验",
+        "refs": [
+          "P4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "负余额抵减不等于追回",
+        "refs": [
+          "T5"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "已付后冲正",
+        "refs": [
+          "R3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "锁定后特殊退款",
+        "refs": [
+          "I4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "发出payout不能claw back",
+        "refs": [
+          "S6"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "退款与异常",
+    "name": "重复数据/幂等",
+    "cells": [
+      {
+        "status": "pending",
+        "text": "重复导入/订单",
+        "refs": [
+          "Y3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "同步唯一键",
+        "refs": [
+          "F5"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "创建微客防重",
+        "refs": [
+          "W6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Allow Duplicate开关，业务键待验",
+        "refs": [
+          "E2"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "重复上报/验证",
+        "refs": [
+          "A7"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "计费回调防重",
+        "refs": [
+          "P8"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "付款和登记幂等",
+        "refs": [
+          "T7"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "Webhook重复/乱序",
+        "refs": [
+          "R6"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "重复Action/历史补录",
+        "refs": [
+          "I7"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "交易/Deal重试防重",
+        "refs": [
+          "S10"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "结算与资金",
+    "name": "审核到付款的分层",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "计算/结算/提现分开",
+        "refs": [
+          "Y9"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "无原生联盟支付闭环证据",
+        "refs": [
+          "F2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "奖励/分账/提现分开",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Invoice与Payment双状态",
+        "refs": [
+          "E4",
+          "E5"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Approved不等于Payable",
+        "refs": [
+          "A3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "审核/月度Payout/账期",
+        "refs": [
+          "P5"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Approved→Balance→Settled",
+        "refs": [
+          "T4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Pending→Due→Paid",
+        "refs": [
+          "R1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Pending→Locked→清算",
+        "refs": [
+          "I4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Approved→企业付→可提现",
+        "refs": [
+          "S7",
+          "S8"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "结算与资金",
+    "name": "账单与付款组织",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "方案及分组结算",
+        "refs": [
+          "Y9"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "订货支付/费用核销为邻接",
+        "refs": [
+          "F2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "应付账单与分账",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "手动/自动Partner Invoice",
+        "refs": [
+          "E4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "网络付款批次",
+        "refs": [
+          "A3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "按月Payout、NET/Custom",
+        "refs": [
+          "P5"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "自定周期、CSV/Trolley",
+        "refs": [
+          "T4",
+          "T6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "到期及批量/托管",
+        "refs": [
+          "R1",
+          "R4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Invoice/SOI/资金策略",
+        "refs": [
+          "I6",
+          "I8"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "月度Invoice审核与扣款",
+        "refs": [
+          "S8"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "结算与资金",
+    "name": "门槛与到账等待",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "售后条件，统一提现门槛待验",
+        "refs": [
+          "Y9"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "佣金门槛/账期",
+        "refs": [
+          "F2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "提现金额/频次可配",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Net Terms/自动开票阈值",
+        "refs": [
+          "E4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "可付余额达门槛",
+        "refs": [
+          "A3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "最低金额跨月累计",
+        "refs": [
+          "P5"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "最低额/截止日期",
+        "refs": [
+          "T4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "到期+门槛共同满足",
+        "refs": [
+          "R1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "合同锁定/清算排期",
+        "refs": [
+          "I4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Drip+Invoice，提现门槛待验",
+        "refs": [
+          "S6",
+          "S8"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "结算与资金",
+    "name": "标记已付是否转账",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "人工结算需商家线下付",
+        "refs": [
+          "Y9"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "依实施系统确认",
+        "refs": [
+          "F2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "线下应付需人工打款",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Mark as Paid不转款",
+        "refs": [
+          "E5"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "不可套外部标付语义",
+        "refs": [
+          "A3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "具体通道的标付",
+        "refs": [
+          "P4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Create Payment登记外部付款",
+        "refs": [
+          "T7"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "标Paid API也用于权益履约",
+        "refs": [
+          "R7"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "专门外部标付动作",
+        "refs": [
+          "I7"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Paid可登记外部已付",
+        "refs": [
+          "S7"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "结算与资金",
+    "name": "失败与资金不足",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "待结算，余额恢复自动重试",
+        "refs": [
+          "Y9"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "ERP/支付补偿",
+        "refs": [
+          "F2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "线上失败转线下应付",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Rejected/Is Payable检查",
+        "refs": [
+          "E5"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "收款资料错误会阻塞",
+        "refs": [
+          "A3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "失败恢复全链",
+        "refs": [
+          "P5"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Cancel恢复余额，支付方另管",
+        "refs": [
+          "T4",
+          "T6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "托管失败原因/重试",
+        "refs": [
+          "R4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "资金不足Overdue，义务保留",
+        "refs": [
+          "I4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "暂停Invoice，扣款完成才可提",
+        "refs": [
+          "S8"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "权限与系统",
+    "name": "对象/字段/数据权限",
+    "cells": [
+      {
+        "status": "pending",
+        "text": "分销模块全量角色",
+        "refs": [
+          "Y2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "企业/人/对象/字段/记录",
+        "refs": [
+          "F4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "客户隐私/门店资格",
+        "refs": [
+          "W1",
+          "W3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "角色API范围，员工细分待验",
+        "refs": [
+          "E6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "团队/2FA，细分待验",
+        "refs": [
+          "A2"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "完整团队角色",
+        "refs": [
+          "P6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Permission system，细分待验",
+        "refs": [
+          "T1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "客户展示开关，细分待验",
+        "refs": [
+          "R3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "角色/付款分权",
+        "refs": [
+          "I7"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Billing看票，全矩阵待验",
+        "refs": [
+          "S8"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "权限与系统",
+    "name": "审计与历史规则",
+    "cells": [
+      {
+        "status": "pending",
+        "text": "规则快照/重算日志",
+        "refs": [
+          "Y9"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "报备/阶段历史完整性",
+        "refs": [
+          "F4"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "切换规则快照",
+        "refs": [
+          "W1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Invoice History，规则快照待验",
+        "refs": [
+          "E4"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "历史重算和日志",
+        "refs": [
+          "A2"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "覆盖规则审计",
+        "refs": [
+          "P4"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "佣金修改可追溯程度",
+        "refs": [
+          "T5"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "佣金快照/事件日志",
+        "refs": [
+          "R6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "EventDate规则基准，日志待验",
+        "refs": [
+          "I4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Invoice Activity记录操作人",
+        "refs": [
+          "S8"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "权限与系统",
+    "name": "REST/事件接入",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "开放接口导入，契约未全读",
+        "refs": [
+          "Y3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "APL场景摘要，REST另验",
+        "refs": [
+          "F5"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "distributor/create与Token",
+        "refs": [
+          "W6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "多角色API/SDK/Webhooks",
+        "refs": [
+          "E6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "API受套餐约束及例外",
+        "refs": [
+          "A7"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Click/Referral/Sales与Webhook",
+        "refs": [
+          "P3",
+          "P8"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "REST改佣金/付款登记",
+        "refs": [
+          "T8",
+          "T7"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "REST Basic Auth/Webhook",
+        "refs": [
+          "R5",
+          "R6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "三角色API入口",
+        "refs": [
+          "I7"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Partner Bearer与Deal API区分",
+        "refs": [
+          "S9",
+          "S10"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "运营与分析",
+    "name": "伙伴门户/经营报表",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "趋势/商品转化/分销中心",
+        "refs": [
+          "Y2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "门户/漏斗/销售简报",
+        "refs": [
+          "F2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "可配置中心/导购任务",
+        "refs": [
+          "W2",
+          "W3"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "多方报告与伙伴界面",
+        "refs": [
+          "E1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "交易/付款报告及导出",
+        "refs": [
+          "A4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "Campaign门户与报表",
+        "refs": [
+          "P1",
+          "P6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "实时报告/伙伴余额",
+        "refs": [
+          "T1",
+          "T4"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "佣金付款页/品牌门户",
+        "refs": [
+          "R1",
+          "R2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "资金概览/45天预测",
+        "refs": [
+          "I5"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "跨项目Reporting/单项目Performance",
+        "refs": [
+          "S3"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "商业边界",
+    "name": "费用基数与套餐",
+    "cells": [
+      {
+        "status": "verified",
+        "text": "进阶包，统一现价待询",
+        "refs": [
+          "Y3"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "CRM/实施/外部账号价",
+        "refs": [
+          "F2"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "产品线现价，旧费率不泛化",
+        "refs": [
+          "W5"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "平台询价，Pay规模/FX另计",
+        "refs": [
+          "E7"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "英国月费+销售额tracking fee",
+        "refs": [
+          "A2"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "联盟收入分档，价为旧核验日",
+        "refs": [
+          "P6"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "套餐/点击转化配额/外部付费",
+        "refs": [
+          "T1"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "订阅，0%归因费≠托管免费",
+        "refs": [
+          "R2"
+        ]
+      },
+      {
+        "status": "pending",
+        "text": "Performance合同费用",
+        "refs": [
+          "I7"
+        ]
+      },
+      {
+        "status": "verified",
+        "text": "入口/集成分层，数字价待询",
+        "refs": [
+          "S1"
+        ]
+      }
+    ]
+  }
+]

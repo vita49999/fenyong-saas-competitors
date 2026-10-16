@@ -1,0 +1,74 @@
+# 十款证据覆盖与交付边界
+
+原八款证据基线：2026-10-13至14；本次十款HTML版本：2026-10-15。此表衡量研究证据覆盖，不是产品能力得分。编号对应各单款报告来源目录；有链接的“官方验证”均为文档层面验证。未登录任何付费租户，未执行真实付款。
+
+## 1 逐产品、逐主题覆盖
+
+标记：**V**=直接官方文字/图像支持；**P**=部分支持、版本/范围有限；**D**=资料冲突需核验；**G**=缺口；**A**=分析重构。单格可同时有证据与缺口。
+
+| 产品 | 定位/购买方 | 主流程 | 三级功能 | 页面图片 | 对象/关系 | 状态/规则 | 退款/异常 | 权限 | 资金 | API | 价格/经营 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 有赞 | V Y1/Y2 | A+V Y3/Y4/Y5/Y9 | P Y2/Y3/Y7 | V Y6/Y9截图 | A+V Y4 | P Y4/Y7/Y9 | P Y5/Y9 | G | P Y6/Y9 | P Y3 | P 能力包；统一价G |
+| 纷享销客 | V F1/F2 | V F3 | P F1/F2/F3 | P F2营销展示 | A+V F1/F3 | P 流程；枚举G | P 报备/审批；资金G | V F4 | P 订货通邻接 | P F5摘要 | G 模块价/经营数据 |
+| 微盟 | V W1/W2 | A+V W1/W4 | P W1/W3/W4 | V W1截图 | A+V W1 | D W1/W4及产品线 | P W1 | P 门店/隐私 | P W1 | P W6 | P W5旧文档；现价G |
+| Everflow | V E1 | A+V E2/E4/E5 | P E1/E2/E4/E5 | V E2截图 | A+V E2 | V E2/E3；全枚举G | P E4/E5；退款G | P API范围E6 | V E4/E5 | V概览E6，契约P | P E7；平台价G |
+| Awin | V A1 | A+V A3/A4/A5 | P A1/A2/A4 | P A8活动营销展示；收益后台G | A | V A3/A4/A5 | P 拒绝/阻塞；退款G | P A2/A7 | V A3；合同P | P A7 | V 英国A2；经营G |
+| FirstPromoter | V P1/P2 | A+V P3/P5 | P P1/P2/P4/P6 | P P4官方展示 | A+V P1/P3 | V P2/P4/P5 | P P4/P7 | G 完整角色表 | P P5/通道入口 | P P3/P8 | V P6；经营G |
+| Tapfiliate | V T1/T2 | A+V T3/T4/T7 | P T1/T3/T4 | V T4截图 | A+V T4/T8 | D Cookie；V审核T5 | V T5/T6 | P T1主题 | V T4/T6/T7 | V T8示例；防重G | V T1；经营G |
+| Rewardful | V R1/R2 | A+V R1/R3/R4 | P R1/R2/R3 | V R3截图+展示 | A+V R1/R3 | V R1；版本P | P R3/R4 | P 隐私/团队 | V R4；资格P | V概览R5/R6 | V R2；经营G |
+
+三级清单均只覆盖本次研究的核心及明确标出的邻接能力，不宣称穷尽所有商业版本。所有对象图均为领域模型；没有将官方宣传页面中的名称冒充数据库表。
+
+## 2 关键结论—证据—缺口
+
+| 产品 | 关键结论 | 直接证据 | 需要补充 |
+|---|---|---|---|
+| 有赞 | 绑客保护与结算售后是两个规则系统 | [Y4](https://help.youzan.com/displaylist/detail_4_4-1-39927)、[Y9](https://help.youzan.com/displaylist/detail_5_5-2-31738) | 跨端覆盖、结算后追偿 |
+| 有赞 | 清退不等于历史收益入口取消 | [Y6](https://help.youzan.com/displaylist/detail_5_5-1-19559) | 未结算订单延续 |
+| 纷享销客 | 上游配置，下游受控访问 | [F4](https://help.fxiaoke.com/83d7/91e3/a544/8179) | 服务端越权测试 |
+| 纷享销客 | Leads到订单协作不等于原生联盟付款 | [F3](https://help.fxiaoke.com/83d7/91e3/a544/f329) | 回款、返利与ERP边界 |
+| 微盟 | 绑定微客与邀请人独立 | [W1](https://help.weimob.com/details/1847) | 关系迁移及订单快照 |
+| 微盟 | 自购与等级限制不能统一概括 | [W1](https://help.weimob.com/details/1847)、[W4](https://help.weimob.com/os/article/5370) | 租户/版本/开关 |
+| Everflow | Coupon优先需要aid参数 | [E3](https://helpdesk.everflow.io/customer/everflows-conversion-attribution-priority) | 冲突用例 |
+| Everflow | Mark as Paid不转账，Approve & Pay亦有None例外 | [E5](https://helpdesk.everflow.io/customer/processing-partner-payments) | 真实通道回执 |
+| Awin | Approved不等于Payable | [A3](https://success.awin.com/articles/en_US/Knowledge/Understanding-Transaction-Status-and-Payment-Process) | 广告主资金与合同责任 |
+| Awin | Validation Period是平均值，不是SLA | [A5](https://success.awin.com/articles/en_US/Knowledge/How-long-does-it-take-for-an-advertiser-to-approve-a-transaction) | 超期申诉、自动验证 |
+| FirstPromoter | NET-30按月末算，不是逐单30天 | [P5](https://help.firstpromoter.com/en/articles/9019492-how-payouts-work-in-firstpromoter) | Custom/多币种 |
+| FirstPromoter | 退款负佣金，Braintree例外 | [P4](https://firstpromoter.com/features/affiliate-commission-software) | 已付后冲正及余额 |
+| Tapfiliate | Settled不证明实际付款 | [T4](https://support.tapfiliate.com/en/articles/13272686-the-payout-process-settling-balances-and-generating-a-payout-file) | 文件与支付方对账 |
+| Tapfiliate | 原生Hands-Free仍有Coming soon表述 | [T1](https://tapfiliate.com/pricing/) | 实际发布、地区和资格 |
+| Rewardful | Invoice支付及退款驱动佣金 | [R3](https://www.rewardful.com/articles/how-rewardful-pays-affiliate-commissions) | 已付后退款、乱序 |
+| Rewardful | 0%归因收入费与3%托管付款费不同 | [R2](https://www.rewardful.com/pricing) | 支付地区、提现费 |
+
+## 3 不应填补为事实的缺口
+
+- 全部产品：真实租户全菜单、灰度版本、角色组合、字段级模式、规则历史快照、全量接口限流/幂等与生产SLA。
+- 国内产品：旧帮助文档与当前套餐映射、资金通道限制、当前售价。
+- 海外产品：收款人国家资格、支付与提现手续费、税表/KYC具体适用范围、跨币种舍入。
+- 企业经营：模块独立收入、客户平均ROI、真实留存、获客成本。未把产品支持的报表与软件厂商自身经营指标混淆。
+- Awin：已取得官方Campaign营销界面展示；后台Earnings Summary/验证页面操作截图尚需补验。
+- 纷享销客：F5正文读取曾超时，仅将可读官方索引摘要作为部分证据，不以此列接口契约。
+
+## 4 研究方法与完成度解释
+
+检索优先官方产品、帮助中心、开发者文档、定价与版本发布；相关正文已打开阅读，少数超时项在来源处标明。图片从官方文章或官方产品页提取，下载后以实际画面核对标题，避免依赖文件名和alt误导。未使用第三方评分站价格作为现价依据，未把其他产品的截图作为替代。
+
+事实、推断和待验证逐段/逐表标记。流程图是研究重构，三级功能按研究范围罗列，所有资金结论明确区分“记账”“付款执行”和“到账”。完成的是公开证据研究成品，而非验收测试报告。
+
+
+## 5 新增两款与本次更新
+
+|产品|本次官方阅读|页面|状态与资金|API|主要缺口|
+|---|---|---|---|---|---|
+|impact.com|I1—I8直接打开|资金概览/预测原图|合同、Credit/Payout Groups、Pending/Locked/Clearing/Overdue|仅门户范围|完整API/权限、锁定后退款、现价|
+|PartnerStack|S1—S10直接打开|审核详情/伙伴首页原图|Group/Deal、Drip、企业审核与伙伴提现分层|Partner API与Deal字段|归因冲突、退款自动化、权限组合、防重|
+
+[官] impact.com现行资金策略页列Net30(PRF)、Net45(SOI)、Net45+(SOI)三类；本版没有沿用旧报告的两类概括。Payout Groups一次一个的证据改为对应专门文档，不把Credit Groups当成计价分组来源。
+
+## 6 完成度与不可替代的实测
+
+十款均已交付八章HTML、主流程图、对象关联图、状态/资金条件图和直接可见的本地官方图片。28项功能横向比较保留逐格官方来源。HTML不依赖在线字体、图片、脚本或图表服务。报告图片内嵌，单个HTML也可独立打开。
+
+[待] 有赞、微盟、Everflow、Tapfiliate、Rewardful、impact.com、PartnerStack有官方帮助/文章界面截图；本次新增FirstPromoter的Stripe连接真实帮助截图和Awin Classic商品分类映射真实帮助截图。纷享销客当前图主要为官方界面合成展示，仍需补直接操作图；Awin收益页与交易验证页也待补。所有图都不是本次登录租户的操作实测。八款基线没有全部在15日重读，原价格观察日保留，不宣称此刻销售报价。
+
+全量付费版本菜单、真实生产API、权限拒绝、资金到账、幂等和回调乱序未实测。三级功能清单覆盖公开证据范围，不以未知填补支持/不支持。没有套用BFF业务。
